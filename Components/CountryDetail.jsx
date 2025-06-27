@@ -91,7 +91,7 @@ export default function CountryDetail() {
               </p>
               <p>
                 <b>
-                  Population: {countryData.population.toLocaleString("en-IN")}{" "}
+                  Total Population: {countryData.population.toLocaleString("en-IN")}{" "}
                 </b>
                 <span className="population"></span>
               </p>
